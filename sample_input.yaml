@@ -1,0 +1,14 @@
+title: "Sample Document"
+description: "This is a sample YAML document for testing."
+
+section1:
+  heading: "Section One"
+  content: "This is the content of Section One."
+
+section2:
+  heading: "Section Two"
+  content: "This is the content of Section Two."
+
+section3:
+  heading: "Section Three"
+  content: "This is the content of Section Three."
