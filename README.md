@@ -14,7 +14,7 @@ If I would do this project again, I would use existing libraries instead, but it
 
 ## Usage
 
-python main.py <input_file.yaml> -rest -markdown -both
+python YAMLConverter.py <input_file.yaml> -rest -markdown -both
 
-An example yaml input file is included.
+An example yaml input file called "sample_input" is included.
 
